@@ -1,0 +1,9 @@
+img{
+    box-shadow: 100px
+}
+#images{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: red;
+    border: 10px solid black;
+}
